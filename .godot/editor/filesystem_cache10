@@ -1,0 +1,21 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1791145911
+bagones azules.png::CompressedTexture2D::7728295138752098869::1791145732::1791145958::1::::<><><>0<>0<>245096487e54be925131f8b3b1a889ba<>res://.godot/imported/bagones azules.png-48dbb17c8858c6233e965bdbf40b2515.ctex::
+bagones con pasajeros.png::CompressedTexture2D::4775934437993384948::1791145854::1791145958::1::::<><><>0<>0<>7555fb4da5b3a97be1ebb4f6dfa23f0d<>res://.godot/imported/bagones con pasajeros.png-d60470841e9eec7d684c8d0184111bc4.ctex::
+dobel bagon (agua y tierra).png::CompressedTexture2D::8040778635753864571::1791145764::1791145958::1::::<><><>0<>0<>342301ef61dc4fedd306a60069bbc248<>res://.godot/imported/dobel bagon (agua y tierra).png-fdba932479f1fbee3c0c071b0acfbb60.ctex::
+parte delantera del tren.png::CompressedTexture2D::4212629118625309962::1791145681::1791145958::1::::<><><>0<>0<>f82d5b8460cfede631fab19b6a27bd99<>res://.godot/imported/parte delantera del tren.png-829a874ff10294d123a6527cab22df3f.ctex::
+README.md::TextFile::-1::1791145911::0::1::::<><><>0<>0<><>::
+rieles.png::CompressedTexture2D::6148468739143305839::1791145642::1791145958::1::::<><><>0<>0<>06527f5148b89d7b68fb23d8843bf7a3<>res://.godot/imported/rieles.png-87b36135632a6a09c3b3869bc51518d0.ctex::
+trains.png::CompressedTexture2D::5029412724282820530::1791145563::1791145958::1::::<><><>0<>0<>85a180661b0ca313a84b876f55977416<>res://.godot/imported/trains.png-b8e7f824c56d0f3ce876062587ef48b7.ctex::
+::res://scenes/::1791145338
+bullet.tscn::PackedScene::-1::1791145338::0::1::::<><><>0<>0<><>::res://scripts/bullet.gd
+enemy.tscn::PackedScene::-1::1791145338::0::1::::<><><>0<>0<><>::res://scripts/enemy.gd
+main.tscn::PackedScene::-1::1791145338::0::1::::<><><>0<>0<><>::res://scripts/main.gd<>res://scenes/train.tscn
+train.tscn::PackedScene::-1::1791145338::0::1::::<><><>0<>0<><>::res://scripts/train.gd<>res://scenes/turret.tscn
+turret.tscn::PackedScene::-1::1791145338::0::1::::<><><>0<>0<><>::res://scripts/turret.gd
+::res://scripts/::1791145356
+bullet.gd::GDScript::3931595336161859833::1791145338::0::1::::<>Area2D<><>0<>0<><>::
+enemy.gd::GDScript::6409604362908752803::1791145338::0::1::::<>Area2D<><>0<>0<><>::
+main.gd::GDScript::8967906922583935953::1791145338::0::1::::<>Node2D<><>0<>0<><>::
+train.gd::GDScript::735258721087247790::1791145338::0::1::::<>Node2D<><>0<>0<><>::
+turret.gd::GDScript::966712936946809005::1791145338::0::1::::<>Node2D<><>0<>0<><>::
